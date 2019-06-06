@@ -51,6 +51,9 @@
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
 .line {
 }
 ._流程形状 {
@@ -82,4 +85,11 @@
   text-align:left;
 }
 ._形状 {
+}
+._鼠标按下文本链接时 {
+}
+.box_3 {
+}
+.primary_button {
+  color:#FFFFFF;
 }
